@@ -1,4 +1,4 @@
-# Data Annotation Tutorial #
+# Data Annotation Tutorial on Zooniverse #
 
 Sloane's copy of John Ray, Historia Plantarum, includes printed texts and handwritten annotations appearing in the margins, headers, and footers.  
 
