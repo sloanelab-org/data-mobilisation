@@ -24,13 +24,30 @@ In this project we are targeting the following segments:
 ## Annotation Workflow 1 ##
 The aim of the tasks in this workflow is to find any missing segments and to verify the captured page number. Segments are only plant names, handwritten annotations on side margins are not included in this stage. This workflow has two tasks:
 
-### Finding Missing Segments ###
+### Task 1: Find Missing Segments ###
 Use the drawing tool to draw a box around new segment.
 
 ![WF1 Task 1.png](https://panoptes-uploads.zooniverse.org/project_attached_image/79f0d7b4-3c02-4d58-8e34-6f048d3f7720.png)
 
+### Task 2: Verify the page number ###
+Once you have finished the first task, click "next" button and move to Task 2. Click on the "i" icon that appear below the image frame and a new window will pop up showing the "pageNo" field. If this number is different from the actual page number, type the correct number in the text box, otherwise, leave it empty.
 
-[![fst.png](https://panoptes-uploads.zooniverse.org/project_attached_image/28732fb0-b326-448a-9e66-2bae6449ce8f.png)](https://panoptes-uploads.zooniverse.org/project_attached_image/28732fb0-b326-448a-9e66-2bae6449ce8f.png)
+![WF1 Task2.png](https://panoptes-uploads.zooniverse.org/project_attached_image/3b5be8b9-5023-4597-8204-526be9800bf5.png)
+
+Click "Done" button then "Next" button to view next image
+
+## Annotation Workflow 2 ##
+
+The aim of workflow 2 is to check if the plant names are linked to the correct specimens and to transcribe the side hand written annotation. Workflow 2 has two tasks:
+
+
+### Task 1: ###
+
+
+![WF2 image seq.png](https://panoptes-uploads.zooniverse.org/project_attached_image/8bf1ee57-e729-45ab-bc9f-260ea1b54ba0.png)
+
+### Task 2: ###
+
 
 ## Image Sequence ##
 Each page is presented with a set of 1 to 12 images. Underneath the images are several white circles, with the white circle indicating the image you are currently viewing.
