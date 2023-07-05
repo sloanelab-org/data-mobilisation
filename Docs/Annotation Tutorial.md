@@ -38,62 +38,66 @@ Click "Done" button then "Next" button to view next image
 
 ## Annotation Workflow 2 ##
 
-The aim of workflow 2 is to check if the plant names are linked to the correct specimens and to transcribe the side hand written annotation. Workflow 2 has two tasks:
+The aim of workflow 2 is to check if the plant names are linked to the correct specimens and to transcribe the side hand written annotation. Workflow 2 has two tasks.
 
+### Image Sequence ###
+Each page is presented with a set of images. Underneath the images are several white circles, with the black circle indicating the image you are currently viewing.
 
-### Task 1: ###
+The first image in the sequence highlights all segments captured for an individual page. Each other image highlights only one element that appears on the first page. (e.g. plant name, or a pair of plant and handwritten text on the margins)   
 
+![WF2 image se1.png](https://panoptes-uploads.zooniverse.org/project_attached_image/0098a9db-49fd-4b81-9bea-5ef4d291f48b.png)
 
-![WF2 image seq.png](https://panoptes-uploads.zooniverse.org/project_attached_image/8bf1ee57-e729-45ab-bc9f-260ea1b54ba0.png)
-
-### Task 2: ###
-
-
-## Image Sequence ##
-Each page is presented with a set of 1 to 12 images. Underneath the images are several white circles, with the white circle indicating the image you are currently viewing.
-
-The first image in the sequence highlights all segments captured for an individual page. Each other image highlights only one element that appears on the first page. (e.g. header, plant name, or a pair of plant and handwritten text on the margins)   
-
-[![Task1.png](https://panoptes-uploads.zooniverse.org/project_attached_image/6a17fb3a-2e05-49ab-8ee9-c3c770e64de5.png)](https://panoptes-uploads.zooniverse.org/project_attached_image/6a17fb3a-2e05-49ab-8ee9-c3c770e64de5.png)
-
-## Task 1: Finding Missing Segments ##
+### Task 1: Verify and Transcribe ###
 Please click on the first circle in the sequence to view the first image.
 &nbsp;
-The task in this step is to draw boxes around missing segments using the rectangle tool and transcribe their contents. If the missing segment is a plant, please type "plant" or "p".
+The first step in this task is to check whether the outlined segments appear in this image are correct. Based on your observation complete one of the following choices:
 
-[![task1.1.png](https://panoptes-uploads.zooniverse.org/project_attached_image/b17c571a-dcef-4710-8bcb-3de158c7e965.png)](https://panoptes-uploads.zooniverse.org/project_attached_image/b17c571a-dcef-4710-8bcb-3de158c7e965.png)
-&nbsp;
-[![task1.2.png](https://panoptes-uploads.zooniverse.org/project_attached_image/c4e196ae-33f1-4b5d-910f-30ce74ca6c84.png)](https://panoptes-uploads.zooniverse.org/project_attached_image/c4e196ae-33f1-4b5d-910f-30ce74ca6c84.png)
+ * **Indicate that the outlined segment is incorrect.** <br />
+ 
+  Select this choice if you noticed that a plant name or specimen annotations are incorrect. In this case draw a line anywhere on the image. After drawing a line a window will pop up with options, please choose the relevant one. 
+
+![WF3Task1Actin1.png](https://panoptes-uploads.zooniverse.org/project_attached_image/5a186163-e948-4eeb-a16a-f0e085988f87.png)
+
+<br />
+<br />
+
+ * **Indicate that the outlined plant name is linked to the right side annotations.** <br />
+
+  Select this choice if the outlined plant name and handwritten annotations are both correct and linked. In this case draw a line any where on the image, a window will pop up, please trascribe the handwritten in the box. If you are uncertain about the handwrittings click on the "unclear" button
+
+  ![WF2Task1Action2.png](https://panoptes-uploads.zooniverse.org/project_attached_image/d44403a0-25f2-4733-b8f0-ddb31b9b5200.png)
+
+<br />
+<br />
+
+ * **Outline the right handwritten annotations linked to this plant name.** <br />
+ 
+ Select this choice if the outlined plant name is correct but the side handwritten linked to this plant name is missing. In this is case draw a rectangle around the handwritten, a window will pop up, please transcribe the handwritten annotations. If you are uncertain about the handwrittings click on the "unclear" button
 
 
-If the missing segment is handwritten text in margins, please use the line tool to   connect this segment to the associated plant name
-
-[![task1.3.png](https://panoptes-uploads.zooniverse.org/project_attached_image/7e52dc55-c156-4a5a-aa52-75d3e5e434a1.png)](https://panoptes-uploads.zooniverse.org/project_attached_image/7e52dc55-c156-4a5a-aa52-75d3e5e434a1.png)
-&nbsp;
-[![task1.4.png](https://panoptes-uploads.zooniverse.org/project_attached_image/07ae60c7-c675-4613-b9fa-34ec2ce9b95b.png)](https://panoptes-uploads.zooniverse.org/project_attached_image/07ae60c7-c675-4613-b9fa-34ec2ce9b95b.png)
-
-[![Task2.png](https://panoptes-uploads.zooniverse.org/project_attached_image/0cd19aad-c053-4ca9-9ddc-68497e7ca6a0.png)](https://panoptes-uploads.zooniverse.org/project_attached_image/0cd19aad-c053-4ca9-9ddc-68497e7ca6a0.png)
-
-## Task 2: Validate and Transcribe ##
-
-Once you have finished the first task, click next and move through the rest of the images to validate the highlighted segments and transcribe the handwritten texts.
+![WF2Task1Action3.png](https://panoptes-uploads.zooniverse.org/project_attached_image/39d98843-96c0-4aa2-993b-31030447d2bd.png)
 
 
-If the text segment is highlighted correctly, please use the green line to draw a line anywhere in the image and transcribe the text that appears inside the segment. For plant name typing the word "plant" is sufficient.
+Move through the rest of the images to validate the highlighted segments and transcribe the handwritten texts.
 
-[![Task2.1.png](https://panoptes-uploads.zooniverse.org/project_attached_image/9746baf5-3020-4048-a0d2-7214bfb3ce49.png)](https://panoptes-uploads.zooniverse.org/project_attached_image/9746baf5-3020-4048-a0d2-7214bfb3ce49.png)
+Once you have finished the first task, click "Next" button to view the next task. 
+
+### Task 2: Add new plant name and handwritten segments ###
+
+If you noticed that there is a missing plant name. Select the "outline a new plant name" choice to draw a rectangle around new plant name. A window will pop up, please select a number for this plant name.
 
 
-If the bounding box of the segment is incorrect, please use the rectangle tool to draw a correct box around that segment and transcribe the handwritten text.
+<br />
 
-[![Task2.2.png](https://panoptes-uploads.zooniverse.org/project_attached_image/79cade50-86e6-4041-9ba0-5938ba0c5f7d.png)](https://panoptes-uploads.zooniverse.org/project_attached_image/79cade50-86e6-4041-9ba0-5938ba0c5f7d.png)
+![WF3Task2Action1.png](https://panoptes-uploads.zooniverse.org/project_attached_image/e96b9588-b583-4281-84d4-4efbd61a8db0.png)
 
-[![Task 3.png](https://panoptes-uploads.zooniverse.org/project_attached_image/c700cdd1-7e2a-4e93-b2f8-7809fd13fc88.png)](https://panoptes-uploads.zooniverse.org/project_attached_image/c700cdd1-7e2a-4e93-b2f8-7809fd13fc88.png)
-## Task 3: Validating Page Number ##
-The final task is to validate the page number of images. Click on the "i" icon below the images frame and a new window will pop up showing the "id" filed. If this id is different from the page number, please insert the correct page number in the text box. otherwise, leave it empty.
-[![Task 3.1.png](https://panoptes-uploads.zooniverse.org/project_attached_image/35304ff8-4f1c-47df-8b88-23edab8935ae.png)](https://panoptes-uploads.zooniverse.org/project_attached_image/35304ff8-4f1c-47df-8b88-23edab8935ae.png)
+<br />
 
-## Transcription Guideline ##
+If there is a side handwritten annotations linked to the new plant name you just outlined, select the second choice "Oultine handwritten annotations" and draw a rectancle around these annotaions. A window will pop up, please transcribe the handwritten annotations and select the same number you gave to the new plant name.
+
+<br />
+
+![WF3Task2Action2.png](https://panoptes-uploads.zooniverse.org/project_attached_image/32305772-5fa7-4219-8d9f-f7751b06eb26.png)
 
 
 
