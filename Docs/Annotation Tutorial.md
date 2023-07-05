@@ -20,6 +20,16 @@ In this project we are targeting the following segments:
  
 [![pair.png](https://panoptes-uploads.zooniverse.org/project_attached_image/49ec1319-2bef-439f-8d44-32e390c54fc2.png)](https://panoptes-uploads.zooniverse.org/project_attached_image/49ec1319-2bef-439f-8d44-32e390c54fc2.png)
 
+
+## Annotation Workflow 1 ##
+The aim of the tasks in this workflow is to find any missing segments and to verify the captured page number. Segments are only plant names, handwritten annotations on side margins are not included in this stage. This workflow has two tasks:
+
+### Finding Missing Segments ###
+Use the drawing tool to draw a box around new segment.
+
+![WF1 Task 1.png](https://panoptes-uploads.zooniverse.org/project_attached_image/79f0d7b4-3c02-4d58-8e34-6f048d3f7720.png)
+
+
 [![fst.png](https://panoptes-uploads.zooniverse.org/project_attached_image/28732fb0-b326-448a-9e66-2bae6449ce8f.png)](https://panoptes-uploads.zooniverse.org/project_attached_image/28732fb0-b326-448a-9e66-2bae6449ce8f.png)
 
 ## Image Sequence ##
