@@ -14,7 +14,7 @@ It processes the results returend by Textract to:
 * The service is running on port:7070.\
 The port can be changed using the "server.port" property in the appliecation.properties file located in the resource folder.
 
-* Update AWS ceredintials
+* Update AWS ceredintials \
 The following properties in the application.properties need to be updated according to the user's credentials
   * cloud.aws.region
   * cloud.aws.credentials.accessKey
@@ -23,10 +23,10 @@ The following properties in the application.properties need to be updated accord
 
 ### Run the service
 
-* To process one image use this URL where image points to the image file path\
-http://localhost:7070/processImage?image=path/to/folder/image.jpg
+* To process one image, use the following URL where "image" points to the image file path and "vol" indicates volume number\
+http://localhost:7070/processImage?image=path/to/folder/image.jpg&vol=I
 
-* To process a set of images in folder use this URL, where imagesFloder points to the folder containing the images\
+* To process a set of images in folder use the following URL where "imagesFloder" points to the folder containing the images and "vol" indicates volume number\
 http://localhost:7070/processFilesFolder?imagesFolder=path/to/folder/
 
 ### Output
