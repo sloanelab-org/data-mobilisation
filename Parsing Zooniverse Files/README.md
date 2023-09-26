@@ -20,3 +20,12 @@ http://localhost:7072/manifestForwf1?folder=path/to/imageFolder/
 * To parse Zooniverse output and extract reviewers' annotation from Workflow one, use the following URL where "file" points to the file exported from Zooniverse, "user" is the username who worked on the workflow, "month" and "day" indicate the date on which the work was completed
 http://localhost:7072/parseZooniverseWF1?file=path/to/Zooniversefile/&user=user&month=11&day=10
 
+* To create images folder to be uploaded to Zooniverse, use the following URL where "folder" points to the images produced by Workflow one
+http://localhost:7072/imagesForWF2Manifest?folder=path/to/imageFolder/
+  
+
+* To create Manifest for Workflow two, use the following URL where "folder" points to the images folder created in the above URL
+http://localhost:7072/createManifestForWF2?inputFolder=path/to/imageFolder/
+ 
+* To parse Zooniverse output and extract reviewers' annotation from Workflow two, use the following URL where "file" points to the file exported from Zooniverse, "user" is the username who worked on the workflow, "month" and "day" indicate the date on which the work was completed
+http://localhost:7072/parseZooniverseWF2?file=path/to/ZooniverseFile/&user=user&month=11&day=10
